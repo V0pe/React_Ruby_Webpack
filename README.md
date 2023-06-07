@@ -3,7 +3,7 @@
 <div align="center">
   <br/>
 
-  <h3><b>PaydayApp</b></h3>
+  <h3><b>React Ruby Webpack</b></h3>
 
 </div>
 
@@ -33,9 +33,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Payday] <a name="about-project"></a>
+# 📖 [react_ruby_webpack] <a name="about-project"></a>
 
-**[Payday]** is A financial app that keeps track of daily transactions on different categories
+**[react_ruby_webpack]** is an app that showcase how rails and react work together
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -44,6 +44,7 @@
 - [ ] Postgres
 - [ ] Rails
 - [ ] Ruby
+- [ ] React
 
 <details>
   <summary>Client</summary>
@@ -81,8 +82,6 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://rails-hvyl.onrender.com)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -110,8 +109,8 @@ Clone this repository to your desired folder:
 
 
 ```sh
-  cd payday
-  git clone https://github.com/V0pe/Payday.git
+  cd react_ruby_webpack
+  git clone https://github.com/V0pe/React_Ruby_Webpack.git
 ```
 
 ### Install
@@ -119,7 +118,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd payday
+  cd react_ruby_webpack
   bundle install
 ```
 
@@ -155,51 +154,40 @@ To run tests, run the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
+## 🔭 Future Features <a name="future-features"></a>
 
-## 🔭 Future Features <a name="future-features"></a>.
-
-- [ ] **[express more features]**
-- [ ] **[Add transactions]**
-- [ ] **[View complex transactions]**
+<details>
+  <ul>
+    <li>Add new data</li>
+    <li>add more message details </li>
+    <li>Update  style</li>
+  </ul>
+</details>
+<br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/anas599/My-Rails-React/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project, like it.
-
+> If you like the project Please do not hesitate if you have any questions
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I acknowledgeed the author [Gregoire Vella on Behance](https://www.behance.net/gregoirevella) of this [creative design](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=) used.
-
-Also, I would like to thank Microverse...
-
+> I would like to thank Microverse for this project based learning
+> <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
